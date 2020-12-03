@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imprentadcc", "toSap\Imprentadcc.csproj", "{AFEC13C0-E481-44F2-8A1D-22F65DEBBCCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEC13C0-E481-44F2-8A1D-22F65DEBBCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEC13C0-E481-44F2-8A1D-22F65DEBBCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEC13C0-E481-44F2-8A1D-22F65DEBBCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEC13C0-E481-44F2-8A1D-22F65DEBBCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF94EA3-1E95-4879-9D80-B304BACCEDB7}
+	EndGlobalSection
+EndGlobal
